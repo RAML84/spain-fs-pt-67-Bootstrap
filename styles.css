@@ -1,0 +1,40 @@
+:root {
+    --white: #ffffff;
+    --grey: #fafafa;
+}
+.bg-grey{ background-color: var(--grey);}
+.bg-light{background-color: var(--light) !important;}
+
+.navbar{
+    min-height: 5rem;
+}
+
+i.lead {
+    font-size: 1.8rem;
+}
+
+.dropdown {
+    margin-left: 15px;
+}
+
+/* .col {
+    margin-top: 1px;
+    padding: 1px;
+    display: flex;
+} */
+
+.a {
+    padding-top: 15px;
+}
+
+.card {
+    margin-top: 1%;
+    margin-left: 33%;
+}
+
+
+@media screen  (max-width: 376px;) {
+.container {
+
+}
+}
